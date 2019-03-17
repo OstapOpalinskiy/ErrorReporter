@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CrashGenerator</string>
+    <string name="channel_name">Crash reports</string>
+    <string name="channel_description">Reports about crashes and errors reported by app</string>
+    <string name="tap_to_send_via_email">Tap to send report via email</string>
+    <string name="error_reported">Error #%d reported</string>
+    <string name="notification_title">Error reported: </string>
+    <string name="date">Date: </string>
+    <string name="message">Message: </string>
+    <string name="is_fatal_exception">Is fatal exeption: </string>
+    <string name="device_info">Device info: </string>
+    <string name="trace">Trace: </string>
+    <string name="fatal_error_reported">New fatal error reported</string>
+    <string name="non_fatal_error_reported">New non-fatal error reported</string>
+</resources>
